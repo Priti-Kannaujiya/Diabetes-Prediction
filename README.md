@@ -4,13 +4,13 @@ This project presents an end-to-end Machine Learning pipeline for predicting dia
 A Soft Voting Classifier combining Logistic Regression, Support Vector Machine (SVM), and Decision Tree is implemented to leverage the strengths of multiple classifiers and achieve robust predictions.
 
 # 🚀 Features
-Comprehensive Exploratory Data Analysis (EDA) with statistical and visual insights.
-Data preprocessing including missing value analysis and feature preparation.
-Addressed class imbalance using SMOTE (Synthetic Minority Oversampling Technique).
-Implemented multiple machine learning models:
-Logistic Regression
-Support Vector Machine (SVM)
-Decision Tree
-Soft Voting Ensemble Classifier
-Model evaluation using Accuracy and comparative performance analysis.
-Clean, modular, and reproducible workflow using Python and Scikit-learn.
+1. Comprehensive Exploratory Data Analysis (EDA) with statistical and visual insights.
+2. Data preprocessing including missing value analysis and feature preparation.
+3. Addressed class imbalance using SMOTE (Synthetic Minority Oversampling Technique).
+4. Implemented multiple machine learning models:
+   Logistic Regression
+   Support Vector Machine (SVM)
+   Decision Tree
+   Soft Voting Ensemble Classifier
+6. Model evaluation using Accuracy and comparative performance analysis.
+7. Clean, modular, and reproducible workflow using Python and Scikit-learn.
